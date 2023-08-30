@@ -1,0 +1,2 @@
+# PersonalKeepInventory
+個別にキープインベントリを設定できるアドオン
